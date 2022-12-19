@@ -1,0 +1,15 @@
+/*
+(p) --> Tüm p etiketleri
+
+(div p) --> div içerisindeki p etiketleri
+
+(div , p) --> Tüm div ve tüm p etiketleri
+
+(p + div) --> p etiketlerinden sonra gelen div etiketi
+*/
+
+
+
+p+div{
+    color: aqua;
+}
